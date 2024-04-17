@@ -8,4 +8,5 @@ body, ul, li {
 #navbar {
     background-color: aqua;
     color: aliceblue;
+    text-align: center;
 }
