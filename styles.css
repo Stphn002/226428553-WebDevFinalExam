@@ -10,3 +10,8 @@ body, ul, li {
     color: aliceblue;
     text-align: center;
 }
+
+#navbar ul li {
+    display: inline;
+    margin-right: auto;
+}
